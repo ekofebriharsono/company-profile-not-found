@@ -33,62 +33,16 @@
     <!-- Offcanvas Menu Begin -->
     <div class="offcanvas-menu-overlay"></div>
     <div class="offcanvas-menu-wrapper">
-        <div class="offcanvas__option">
-            <div class="offcanvas__links">
-                <a href="#">Sign in</a>
-                <a href="#">FAQs</a>
-            </div>
-            <div class="offcanvas__top__hover">
-                <span>Usd <i class="arrow_carrot-down"></i></span>
-                <ul>
-                    <li>USD</li>
-                    <li>EUR</li>
-                    <li>USD</li>
-                </ul>
-            </div>
-        </div>
         <div class="offcanvas__nav__option">
             <a href="#" class="search-switch"><img src="img/icon/search.png" alt=""></a>
             <a href="#"><img src="img/icon/heart.png" alt=""></a>
-            <a href="#"><img src="img/icon/cart.png" alt=""> <span>0</span></a>
-            <div class="price">$0.00</div>
         </div>
         <div id="mobile-menu-wrap"></div>
-        <div class="offcanvas__text">
-            <p>Free shipping, 30-day return or refund guarantee.</p>
-        </div>
     </div>
     <!-- Offcanvas Menu End -->
 
     <!-- Header Section Begin -->
     <header class="header">
-        <div class="header__top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-7">
-                        <div class="header__top__left">
-                            <p>Free shipping, 30-day return or refund guarantee.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-5">
-                        <div class="header__top__right">
-                            <div class="header__top__links">
-                                <a href="#">Sign in</a>
-                                <a href="#">FAQs</a>
-                            </div>
-                            <div class="header__top__hover">
-                                <span>Usd <i class="arrow_carrot-down"></i></span>
-                                <ul>
-                                    <li>USD</li>
-                                    <li>EUR</li>
-                                    <li>USD</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-3">
@@ -119,8 +73,6 @@
                     <div class="header__nav__option">
                         <a href="#" class="search-switch"><img src="img/icon/search.png" alt=""></a>
                         <a href="#"><img src="img/icon/heart.png" alt=""></a>
-                        <a href="#"><img src="img/icon/cart.png" alt=""> <span>0</span></a>
-                        <div class="price">$0.00</div>
                     </div>
                 </div>
             </div>
@@ -171,7 +123,7 @@
                                         </div>
                                         <div class="product__cart__item__text">
                                             <h6>T-shirt Contrast Pocket</h6>
-                                            <h5>$98.49</h5>
+                                            <h5>Rp100.00</h5>
                                         </div>
                                     </td>
                                     <td class="quantity__item">
@@ -181,7 +133,7 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td class="cart__price">$ 30.00</td>
+                                    <td class="cart__price">Rp30.000</td>
                                     <td class="cart__close"><i class="fa fa-close"></i></td>
                                 </tr>
                                 <tr>
@@ -191,7 +143,7 @@
                                         </div>
                                         <div class="product__cart__item__text">
                                             <h6>Diagonal Textured Cap</h6>
-                                            <h5>$98.49</h5>
+                                            <h5>Rp98.000</h5>
                                         </div>
                                     </td>
                                     <td class="quantity__item">
@@ -201,7 +153,7 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td class="cart__price">$ 32.50</td>
+                                    <td class="cart__price">Rp40.000</td>
                                     <td class="cart__close"><i class="fa fa-close"></i></td>
                                 </tr>
                                 <tr>
@@ -211,7 +163,7 @@
                                         </div>
                                         <div class="product__cart__item__text">
                                             <h6>Basic Flowing Scarf</h6>
-                                            <h5>$98.49</h5>
+                                            <h5>Rp99.000</h5>
                                         </div>
                                     </td>
                                     <td class="quantity__item">
@@ -221,7 +173,7 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td class="cart__price">$ 47.00</td>
+                                    <td class="cart__price">Rp50.000</td>
                                     <td class="cart__close"><i class="fa fa-close"></i></td>
                                 </tr>
                                 <tr>
@@ -231,7 +183,7 @@
                                         </div>
                                         <div class="product__cart__item__text">
                                             <h6>Basic Flowing Scarf</h6>
-                                            <h5>$98.49</h5>
+                                            <h5>Rp150.000</h5>
                                         </div>
                                     </td>
                                     <td class="quantity__item">
@@ -241,7 +193,7 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td class="cart__price">$ 30.00</td>
+                                    <td class="cart__price">60.00</td>
                                     <td class="cart__close"><i class="fa fa-close"></i></td>
                                 </tr>
                             </tbody>
@@ -271,8 +223,8 @@
                     <div class="cart__total">
                         <h6>Cart total</h6>
                         <ul>
-                            <li>Subtotal <span>$ 169.50</span></li>
-                            <li>Total <span>$ 169.50</span></li>
+                            <li>Subtotal <span>Rp1.000.000</span></li>
+                            <li>Total <span>Rp800.000</span></li>
                         </ul>
                         <a href="#" class="primary-btn">Proceed to checkout</a>
                     </div>
@@ -334,10 +286,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="footer__copyright__text">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Copyright ©
-                            <script>
-                                document.write(new Date().getFullYear());
-                            </script>2020
+                        <p>Copyright © WB productions 2020
                             All rights reserved | This template is made with <i class="fa fa-heart-o"
                             aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
                         </p>
