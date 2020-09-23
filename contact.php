@@ -99,10 +99,6 @@
                                 <h4>Surabaya</h4>
                                 <p>Jl Benowo Lapangan <br />+62 896-0724-4544</p>
                             </li>
-                            <li>
-                                <h4>France</h4>
-                                <p>109 Avenue Léon, 63 Clermont-Ferrand <br />+12 345-423-9893</p>
-                            </li>
                         </ul>
                     </div>
                 </div>
