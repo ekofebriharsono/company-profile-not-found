@@ -144,13 +144,12 @@
                         <div class="section-title">
                             <span>Information</span>
                             <h2>Contact Us</h2>
-                            <p>As you might expect of a company that began as a high-end interiors contractor, we pay
-                                strict attention.</p>
+                            <p>As you would expect from a company that started out as a high-end profile company, we pay deep attention.</p>
                         </div>
                         <ul>
                             <li>
-                                <h4>America</h4>
-                                <p>195 E Parker Square Dr, Parker, CO 801 <br />+43 982-314-0958</p>
+                                <h4>Surabaya</h4>
+                                <p>Jl Benowo Lapangan <br />+62 896-0724-4544</p>
                             </li>
                             <li>
                                 <h4>France</h4>
@@ -234,10 +233,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="footer__copyright__text">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Copyright ©
-                            <script>
-                                document.write(new Date().getFullYear());
-                            </script>2020
+                        <p>Copyright © WB productions 2020
                             All rights reserved | This template is made with <i class="fa fa-heart-o"
                                 aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
                         </p>
