@@ -7,7 +7,7 @@
     <meta name="keywords" content="Male_Fashion, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Not FounD</title>
+    <title>Not Found</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800;900&display=swap"
@@ -112,9 +112,8 @@
                         <div class="col-xl-5 col-lg-7 col-md-8">
                             <div class="hero__text">
                                 <h6>Summer Collection</h6>
-                                <h2>Fall - Winter Collections 2030</h2>
-                                <p>A specialist label creating luxury essentials. Ethically crafted with an unwavering
-                                commitment to exceptional quality.</p>
+                                <h2>Not Found 2020</h2>
+                                <p>Produksi kaos dengan desaign yang simple, dengan kualitas yang tidak main-main dan anda juga bisa castum desaign.</p>
                                 <a href="#" class="primary-btn">Shop now <span class="arrow_right"></span></a>
                                 <div class="hero__social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -162,7 +161,7 @@
                             <img src="img/banner/banner-1.jpg" alt="">
                         </div>
                         <div class="banner__item__text">
-                            <h2>Clothing Collections 2030</h2>
+                            <h2>Clothing Collections 2020</h2>
                             <a href="#">Shop now</a>
                         </div>
                     </div>
@@ -184,7 +183,7 @@
                             <img src="img/banner/banner-3.jpg" alt="">
                         </div>
                         <div class="banner__item__text">
-                            <h2>Shoes Spring 2030</h2>
+                            <h2>Shoes Spring 2020</h2>
                             <a href="#">Shop now</a>
                         </div>
                     </div>
@@ -227,7 +226,7 @@
                                 <i class="fa fa-star-o"></i>
                                 <i class="fa fa-star-o"></i>
                             </div>
-                            <h5>$67.24</h5>
+                            <h6>Rp67.000</h6>
                             <div class="product__color__select">
                                 <label for="pc-1">
                                     <input type="radio" id="pc-1">
@@ -261,7 +260,7 @@
                                 <i class="fa fa-star-o"></i>
                                 <i class="fa fa-star-o"></i>
                             </div>
-                            <h5>$67.24</h5>
+                            <h6>Rp68.000</h6>
                             <div class="product__color__select">
                                 <label for="pc-4">
                                     <input type="radio" id="pc-4">
@@ -296,7 +295,7 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star-o"></i>
                             </div>
-                            <h5>$43.48</h5>
+                            <h6>$Rp43.000</h6>
                             <div class="product__color__select">
                                 <label for="pc-7">
                                     <input type="radio" id="pc-7">
@@ -330,7 +329,7 @@
                                 <i class="fa fa-star-o"></i>
                                 <i class="fa fa-star-o"></i>
                             </div>
-                            <h5>$60.9</h5>
+                            <h6>Rp60.000</h6>
                             <div class="product__color__select">
                                 <label for="pc-10">
                                     <input type="radio" id="pc-10">
@@ -364,7 +363,7 @@
                                 <i class="fa fa-star-o"></i>
                                 <i class="fa fa-star-o"></i>
                             </div>
-                            <h5>$31.37</h5>
+                            <h6>Rp31.000</h6>
                             <div class="product__color__select">
                                 <label for="pc-13">
                                     <input type="radio" id="pc-13">
@@ -399,7 +398,7 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star-o"></i>
                             </div>
-                            <h5>$98.49</h5>
+                            <h6>Rp98.000</h6>
                             <div class="product__color__select">
                                 <label for="pc-16">
                                     <input type="radio" id="pc-16">
@@ -433,7 +432,7 @@
                                 <i class="fa fa-star-o"></i>
                                 <i class="fa fa-star-o"></i>
                             </div>
-                            <h5>$49.66</h5>
+                            <h6>Rp49.000</h6>
                             <div class="product__color__select">
                                 <label for="pc-19">
                                     <input type="radio" id="pc-19">
@@ -467,7 +466,7 @@
                                 <i class="fa fa-star-o"></i>
                                 <i class="fa fa-star-o"></i>
                             </div>
-                            <h5>$26.28</h5>
+                            <h6>Rp27.000</h6>
                             <div class="product__color__select">
                                 <label for="pc-22">
                                     <input type="radio" id="pc-22">
@@ -552,9 +551,8 @@
                 <div class="col-lg-4">
                     <div class="instagram__text">
                         <h2>Instagram</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua.</p>
-                        <h3>#Male_Fashion</h3>
+                        <p>Bisa cek langsung di Instagram kita.</p>
+                        <h3>#NotFound_Fashion</h3>
                     </div>
                 </div>
             </div>
