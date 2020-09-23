@@ -54,41 +54,12 @@
             <div class="price">$0.00</div>
         </div>
         <div id="mobile-menu-wrap"></div>
-        <div class="offcanvas__text">
-            <p>Free shipping, 30-day return or refund guarantee.</p>
-        </div>
+        <
     </div>
     <!-- Offcanvas Menu End -->
 
     <!-- Header Section Begin -->
     <header class="header">
-        <div class="header__top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-7">
-                        <div class="header__top__left">
-                            <p>Free shipping, 30-day return or refund guarantee.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-5">
-                        <div class="header__top__right">
-                            <div class="header__top__links">
-                                <a href="#">Sign in</a>
-                                <a href="#">FAQs</a>
-                            </div>
-                            <div class="header__top__hover">
-                                <span>Usd <i class="arrow_carrot-down"></i></span>
-                                <ul>
-                                    <li>USD</li>
-                                    <li>EUR</li>
-                                    <li>USD</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-3">
@@ -137,7 +108,7 @@
                     <div class="breadcrumb__text">
                         <h4>Shop</h4>
                         <div class="breadcrumb__links">
-                            <a href="./index.html">Home</a>
+                            <a href="./index.php">Home</a>
                             <span>Shop</span>
                         </div>
                     </div>
@@ -226,30 +197,19 @@
                                     <div id="collapseFour" class="collapse show" data-parent="#accordionExample">
                                         <div class="card-body">
                                             <div class="shop__sidebar__size">
-                                                <label for="xs">xs
-                                                    <input type="radio" id="xs">
-                                                </label>
-                                                <label for="sm">s
-                                                    <input type="radio" id="sm">
-                                                </label>
                                                 <label for="md">m
                                                     <input type="radio" id="md">
                                                 </label>
-                                                <label for="xl">xl
+                                                <label for="l">l
                                                     <input type="radio" id="xl">
                                                 </label>
-                                                <label for="2xl">2xl
-                                                    <input type="radio" id="2xl">
-                                                </label>
-                                                <label for="xxl">xxl
+                                                <label for="xl">xl
                                                     <input type="radio" id="xxl">
                                                 </label>
-                                                <label for="3xl">3xl
+                                                <label for="xxl">xxl
                                                     <input type="radio" id="3xl">
                                                 </label>
-                                                <label for="4xl">4xl
-                                                    <input type="radio" id="4xl">
-                                                </label>
+
                                             </div>
                                         </div>
                                     </div>
@@ -355,7 +315,7 @@
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$67.24</h5>
+                                    <h6>Rp67.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-4">
                                             <input type="radio" id="pc-4">
@@ -391,7 +351,7 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$43.48</h5>
+                                    <h6>Rp44.0000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-7">
                                             <input type="radio" id="pc-7">
@@ -426,7 +386,7 @@
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$60.9</h5>
+                                    <h6>Rp61.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-10">
                                             <input type="radio" id="pc-10">
@@ -462,7 +422,7 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$98.49</h5>
+                                    <h6>Rp98.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-16">
                                             <input type="radio" id="pc-16">
@@ -497,7 +457,7 @@
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$49.66</h5>
+                                    <h6>Rp50.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-19">
                                             <input type="radio" id="pc-19">
@@ -532,7 +492,7 @@
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$26.28</h5>
+                                    <h6>Rp27.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-22">
                                             <input type="radio" id="pc-22">
@@ -567,7 +527,7 @@
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$67.24</h5>
+                                    <h6>Rp68.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-25">
                                             <input type="radio" id="pc-25">
@@ -603,7 +563,7 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$43.48</h5>
+                                    <h6>Rp44.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-28">
                                             <input type="radio" id="pc-28">
@@ -638,7 +598,7 @@
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$60.9</h5>
+                                    <h6>Rp60.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-31">
                                             <input type="radio" id="pc-31">
@@ -674,7 +634,7 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$98.49</h5>
+                                    <h6>Rp99.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-34">
                                             <input type="radio" id="pc-34">
@@ -709,7 +669,7 @@
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$49.66</h5>
+                                    <h6>Rp50.000</h6>
                                     <div class="product__color__select">
                                         <label for="pc-37">
                                             <input type="radio" id="pc-37">
@@ -744,7 +704,7 @@
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <h5>$26.28</h5>
+                                    <h6>Rp26.500</h6>
                                     <div class="product__color__select">
                                         <label for="pc-40">
                                             <input type="radio" id="pc-40">
@@ -829,10 +789,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="footer__copyright__text">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Copyright ©
-                            <script>
-                                document.write(new Date().getFullYear());
-                            </script>2020
+                        <p>Copyright © WB productions 2020
                             All rights reserved | This template is made with <i class="fa fa-heart-o"
                             aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
                         </p>

@@ -113,7 +113,7 @@
                             <div class="hero__text">
                                 <h6>Summer Collection</h6>
                                 <h2>Not Found 2020</h2>
-                                <p>Produksi kaos dengan desaign yang simple, dengan kualitas yang tidak main-main dan anda juga bisa castum desaign.</p>
+                                <p>Produksi kaos dengan desaign yang simple, dengan kualitas yang tidak main-main dan anda juga bisa costum desaign.</p>
                                 <a href="#" class="primary-btn">Shop now <span class="arrow_right"></span></a>
                                 <div class="hero__social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -659,10 +659,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="footer__copyright__text">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Copyright ©
-                            <script>
-                                document.write(new Date().getFullYear());
-                            </script>2020
+                        <p>Copyright © WB productions 2020
                             All rights reserved | This template is made with <i class="fa fa-heart-o"
                             aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
                         </p>
